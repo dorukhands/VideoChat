@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956953694344",
+    "firebase_url": "https://videochat-ccf75.firebaseio.com",
+    "project_id": "videochat-ccf75",
+    "storage_bucket": "videochat-ccf75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956953694344:android:f0b39a1546fce19c314f3d",
+        "android_client_info": {
+          "package_name": "doruk.durkal.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956953694344-6be3i5hp36f30cbafk4n5k1t4h9grhve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVIegICQ285vT5PsanBztEB0IIYIWQd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956953694344-6be3i5hp36f30cbafk4n5k1t4h9grhve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
